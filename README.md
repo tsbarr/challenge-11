@@ -8,6 +8,7 @@ This repo contains my work for the challenge that corresponds to Module 11 of th
 
 ---
 
+- [Deliverables](#deliverables)
 - [Background](#background)
   - [What You're Creating](#what-youre-creating)
 - [Instructions](#instructions)
@@ -17,6 +18,14 @@ This repo contains my work for the challenge that corresponds to Module 11 of th
     - [Requirements Part 2 (60 points)](#requirements-part-2-60-points)
 - [References](#references)
 
+
+---
+
+## Deliverables
+
+Part 1 notebook: [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
+
+Part 2 notebook: [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
 
 ---
 
