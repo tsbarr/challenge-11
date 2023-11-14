@@ -14,6 +14,12 @@ Notebook for Part 1: [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
 
 Notebook for Part 2: [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
 
+## Final datasets
+
+Resulting dataset for Part 1: [results/mars_news.json](results/mars_news.json)
+
+Resulting dataset for Part 2: [results/mars_weather.csv](results/mars_weather.csv)
+
 ---
 
 ## References
